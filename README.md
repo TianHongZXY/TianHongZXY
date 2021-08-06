@@ -2,7 +2,7 @@
 ## Hi there 👋
 **This is Xinyu Zhu**
 
-I am currently a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home).
+I'm now a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home).
 
 Currently, I am interested in **Natural Language Processing** and working on **Sentence-level Representation Learning**.
 
