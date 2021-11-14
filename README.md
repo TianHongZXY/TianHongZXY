@@ -4,7 +4,7 @@
 
 I'm now a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home).
 
-Currently, I am interested in **Natural Language Processing** and working on **Text Representation Learning**.
+Currently, I am interested in **Natural Language Processing** and working on **Task-oriented Dialogue**.
 
 
 <a href="https://tianhongzxy.github.io/">
