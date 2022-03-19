@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 🌱 I'm now a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home) and a research intern [@IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). Currently, I am working on **Natural Language Processing**, especially on **Large Language Model Pre-Training** .
-- 📫 How to reach me: [163mail](mailto:tianhongzxy@163.com) | [Zhihu](https://www.zhihu.com/people/tianhongzxy) | [微信公众号](https://mp.weixin.qq.com/s/sbeg4GpHbizDPUnipZCxrg)
+- 📫 How to reach me: [163mail](mailto:tianhongzxy@163.com) | [Zhihu](https://www.zhihu.com/people/tianhongzxy) | [微信公众号](https://mp.weixin.qq.com/s/sbeg4GpHbizDPUnipZCxrg) | [Twitter](https://twitter.com/tianhongzxy)
 - ⚡ Interested in finance, sociology, history and crypto : )
 - 📝 Writing tech blog in 微信公众号 and Zhihu: 
     - [建模推理能力的预训练任务POET](https://mp.weixin.qq.com/s/WW8XKE9WuSwx0X4Lo0CCdw)
