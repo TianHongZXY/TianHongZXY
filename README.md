@@ -9,7 +9,7 @@
     - [建模推理能力的预训练任务POET](https://mp.weixin.qq.com/s/WW8XKE9WuSwx0X4Lo0CCdw)
     - [Normalizing Flows入门(上)](https://zhuanlan.zhihu.com/p/165577850)
     - [Normalizing Flows入门(中)](https://zhuanlan.zhihu.com/p/165984720)
-- 📝 Writing my personal life and thinking in 微信公众号:
+- 🎾 Writing my personal life and thinking in 微信公众号:
     - [【随笔】2021-我的生活与思考-网球篇](https://mp.weixin.qq.com/s/Xt_XK7Qqm-HOqtPdXBxDjA)
     - [【随笔】2021-我的生活与思考-投资篇](https://mp.weixin.qq.com/s/XCQkCacJkhKzccIBcCch0A)
 
