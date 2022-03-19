@@ -16,7 +16,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://tianhongzxy.github.io/">
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tianhongzxy&show_icons=true" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tianhongzxy&show_icons=true" />
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianhongzxy&layout=compact)
