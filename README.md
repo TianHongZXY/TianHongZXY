@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTianHongZXY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🌱 I'm now a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home) and a research intern [@IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). Currently, I am working on **Natural Language Processing**, especially on **Large Language Model Pre-Training** .
+- 🌱 I'm now a master student at Tsinghua University advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). Previously I was a research intern at Microsoft Research Asia and [@IDEA-CCNL](https://www.idea.edu.cn/research/ccnl.html). Currently, I am working on **Natural Language Processing**, especially on **Reasoning with Language Models** .
 - 📫 How to reach me: [163mail](mailto:tianhongzxy@163.com) | [Zhihu](https://www.zhihu.com/people/tianhongzxy) | [微信公众号](https://mp.weixin.qq.com/s/sbeg4GpHbizDPUnipZCxrg) | [Twitter](https://twitter.com/tianhongzxy)
 - ⚡ Interested in finance, sociology, history and crypto : )
 - 📝 Writing tech blog in 微信公众号 and Zhihu: 
